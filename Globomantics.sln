@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globomantics.BandAgent", "Globomantics.BandAgent\Globomantics.BandAgent.csproj", "{A7F45B7D-D290-41B0-8595-B5EFFB9151DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globomantics.MessageProcessor", "Globomantics.MessageProcessor\Globomantics.MessageProcessor.csproj", "{72959B38-28B2-438A-81B9-9545A671CE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F45B7D-D290-41B0-8595-B5EFFB9151DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F45B7D-D290-41B0-8595-B5EFFB9151DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F45B7D-D290-41B0-8595-B5EFFB9151DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F45B7D-D290-41B0-8595-B5EFFB9151DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72959B38-28B2-438A-81B9-9545A671CE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72959B38-28B2-438A-81B9-9545A671CE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72959B38-28B2-438A-81B9-9545A671CE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72959B38-28B2-438A-81B9-9545A671CE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DFD9A38-B4E3-4739-B026-FE0262F859CB}
+	EndGlobalSection
+EndGlobal
